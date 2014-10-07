@@ -1,2 +1,27 @@
-body {background: pink
-} div{
+body {
+	background: pink;
+} 
+div{
+	background:blue;
+	padding: 15px;
+}
+
+.fifty img{
+	width: 200px; 
+
+}
+.left {
+	float:left;
+}
+.right{ 
+	float: right;
+}
+
+.center {
+	text-align: center;
+	margin:0 auto;
+}
+#mainImage{
+	text-align: center;
+	width: 500px;
+}
