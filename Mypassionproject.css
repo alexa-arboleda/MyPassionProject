@@ -1,9 +1,11 @@
 body {
-	background: pink;
+	background: turquoise;
+	font-family: 'Indie Flower', cursive;
+
 } 
 div{
-	background:blue;
-	padding: 15px;
+	background:
+	padding: 100px;
 }
 
 .fifty img{
