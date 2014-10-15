@@ -1,6 +1,7 @@
 body {
 	background: turquoise;
 	font-family: 'Indie Flower', cursive;
+	font-size: 14;
 
 } 
 div{
@@ -27,3 +28,10 @@ div{
 	text-align: center;
 	width: 500px;
 }
+.pinktext {color: pink
+}
+
+.justify{ 
+text-align: justify;
+
+
