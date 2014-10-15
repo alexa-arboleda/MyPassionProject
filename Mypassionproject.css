@@ -5,8 +5,12 @@ body {
 
 } 
 div{
-	background:
 	padding: 100px;
+}
+
+.top{
+	padding: 10px;
+
 }
 
 .fifty img{
@@ -28,10 +32,15 @@ div{
 	text-align: center;
 	width: 500px;
 }
-.pinktext {color: pink
+.pinktext {
+	color: pink
 }
 
 .justify{ 
 text-align: justify;
+}
 
+.inlineblock{
+	display: inline-block;
+}
 
